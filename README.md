@@ -1,2 +1,3 @@
-# Sanskar-16.github.io
-Curriculum Vitae
+# Resume 
+## You can turn on push notiications to keep in touch with my projects and file.
+
