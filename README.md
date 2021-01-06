@@ -2,9 +2,9 @@
 
 Sanskar Gupta 
 T: (+44) 07459440712
-[Email Id.](sanskargupta15@gmail.com)
-[View my LinkedIn](https://www.linkedin.com/in/sanskargupta/)
-[View my Github](https://github.com/Sanskar-16)
+> [Email Id.](sanskargupta15@gmail.com)
+> [View my LinkedIn](https://www.linkedin.com/in/sanskargupta/)
+> [View my Github](https://github.com/Sanskar-16)
 ---
 
 Personal profile
