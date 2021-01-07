@@ -1,5 +1,4 @@
 # Sanskar Gupta   
-
 - - -
 T: (+44) 07459440712   
 [Email Id.](sanskargupta15@gmail.com)   
@@ -13,7 +12,6 @@ I am a BSc Data Science student, looking for a placement opportunity. I have ded
 ---
 ## Education 
 
----
 ### BSc Data Science - University of Essex (2019 - 2023) 
 **First year modules**
 - Introduction to programming
