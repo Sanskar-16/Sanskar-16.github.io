@@ -1,14 +1,14 @@
 # MY RESUME 
 
-###### Sanskar Gupta 
-###### T: (+44) 07459440712
-###### [Email Id.](sanskargupta15@gmail.com)
-###### [View my LinkedIn](https://www.linkedin.com/in/sanskargupta/)
-###### [View my Github](https://github.com/Sanskar-16)
+### Sanskar Gupta 
+T: (+44) 07459440712
+[Email Id.](sanskargupta15@gmail.com)
+[View my LinkedIn](https://www.linkedin.com/in/sanskargupta/)
+[View my Github](https://github.com/Sanskar-16)
 ---
 
-##### Personal profile
-###### I am a BSc Data Science student, looking for a placement opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at university.
+## Personal profile
+##### I am a BSc Data Science student, looking for a placement opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at university.
 ---
 ## Education
 ---
