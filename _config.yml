@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", group: :jekyll_plugins
 title: Sanskar Gupta
 decription: Curriculum Vitae
