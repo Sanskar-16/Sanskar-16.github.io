@@ -1,19 +1,19 @@
 # Sanskar Gupta   
 
---
+- - -
 T: (+44) 07459440712   
 [Email Id.](sanskargupta15@gmail.com)   
 [View my LinkedIn](https://www.linkedin.com/in/sanskargupta/)   
 [View my Github](https://github.com/Sanskar-16)    
 
---
+---
 ## Personal profile    
 I am a BSc Data Science student, looking for a placement opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at the university.
 
---
+---
 ## Education 
 
---
+---
 ### BSc Data Science - University of Essex (2019 - 2023) 
 **First year modules**
 - Introduction to programming
@@ -47,13 +47,13 @@ I am a BSc Data Science student, looking for a placement opportunity. I have ded
 
 *Grade Recived - 89% (A)*
 
---
+* * * * * * * *
 ## Projects worked on 
 1. Kaggle Housing project
 
 **You can turn on push notifications to keep in touch with my projects**
 
---
+******
 ## Work experience
 
 ### Resident’s Assistant (October 2020 – Current)
@@ -101,7 +101,7 @@ The Akanksha Foundation
 - Helped the team with Employee data and MIS.
 - Coordination with the HR team and field Volunteer for organizing an annual day.
 
---
+***
 ## Positions of responsibility
 
 ### Vice-President – Cycling club (October 2020 – Current)
@@ -115,13 +115,13 @@ University of Essex
 - Gather feedback from students via email, WhatsApp for different modules.
 - Communicate efficiently with higher authorities to convey the feedback.
 
---
+---
 ## Skills:
 - Languages Known: English, Hindi, Spanish (Beginner)
 - Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++.
 - Conversant with Windows, Mac, MS office & Internet-based applications.
 
---
+---
 ## Interests and Activities
 - Working and improvising on open-sourced coding – participated in Kaggle housing project.
 - Participating in sports and fitness – helps me keep active and a good physique.
@@ -129,5 +129,5 @@ University of Essex
 - Cycle touring – explore nearby areas.
 - Mobile/Console gaming – I participate in local tournaments for CODM, helps me concentrate, keeps me aware and meet new people with same interest.
 
---
+---
 ## Reference available on request
