@@ -53,7 +53,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 ### 2. A COVID-19 modeling and forecast tool 
 
-![chal ave](Resources/Image1.png)
+![Prediction model!!](Resources/Image1.png)
 
 Language used - Java, HTML. 
 
