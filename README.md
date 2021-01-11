@@ -50,7 +50,8 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 ## Projects worked on 
 1. Kaggle Housing project 
 - Language used - python
-2. A COVID-19 modeling and forecast tool
+2. A COVID-19 modeling and forecast tool  
+![Prediction model](\Resources\Image1.png)
 - Language used - Java, HTML.
 
 **You can turn on push notifications to keep in touch with my projects**
