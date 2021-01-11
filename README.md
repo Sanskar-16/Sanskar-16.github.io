@@ -3,12 +3,12 @@
 T: (+44) 07459440712   
 [Gmail](sanskargupta15@gmail.com)   
 [LinkedIn](https://www.linkedin.com/in/sanskargupta/)   
-[Github](https://github.com/Sanskar-16)
+[Github](https://github.com/Sanskar-16)  
 [Kaggle](www.kaggle.com)
 
 ---
 ## Personal profile    
-I am a BSc Data Science student, looking for a placement opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at the university.
+I am a BSc Data Science student, looking for a placement/internship opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at the university.
 
 ---
 ## Education 
@@ -48,7 +48,10 @@ I am a BSc Data Science student, looking for a placement opportunity. I have ded
 
 * * * * * * * *
 ## Projects worked on 
-1. Kaggle Housing project
+1. Kaggle Housing project 
+- Language used - python
+2. A COVID-19 modeling and forecast tool
+- Language used - Java, HTML.
 
 **You can turn on push notifications to keep in touch with my projects**
 
