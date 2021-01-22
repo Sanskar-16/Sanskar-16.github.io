@@ -126,15 +126,15 @@ University of Essex
 ---
 ## Skills:
 - Languages Known: English, Hindi, Spanish (Beginner)
-- Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++.
+- Git, Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++, Jira.
 - Conversant with Windows, Mac, MS office & Internet-based applications.
 
 ---
 ## Interests and Activities
-- Working and improvising on open-sourced coding – participated in Kaggle housing project.
-- Participating in sports and fitness – helps me keep active and a good physique.
-- Listening and working with Music and beats – keeps me relaxed.
-- Cycle touring – explore nearby areas.
+- Working and improvising on open-sourced coding – participated in Kaggle housing project, Covid prediction model.
+- Participating in sports and fitness – helps me keep active and a good physique. I'm passionate about football.
+- Listening and working with Music and beats – keeps me relaxed. I play intruments too (keyboard and drums).
+- Cycle touring – explore nearby areas, go for long rides.
 - Mobile/Console gaming – I participate in local tournaments for CODM, helps me concentrate, keeps me aware and meet new people with same interest.
 
 ---
