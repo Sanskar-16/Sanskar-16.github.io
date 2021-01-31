@@ -120,7 +120,7 @@ University of Essex
 - Manage the internal working of the club such as and assist the president where necessary.
 - Act as secondary point of contact for external bodies.
 
-### Essex Student representative (December 2019 – Current)
+### Essex Student representative (December 2019 – July 2020)
 University of Essex
 - Student representative for mathematical Sciences department’s modules.
 - Gather feedback from students via email, WhatsApp for different modules.
