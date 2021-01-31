@@ -51,7 +51,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 ### 1. Kaggle Housing project 
 
 ![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
-- This project was based on prediction of the housing prices. The attibutes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in negative way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.161 as the best score. 
+- This project was based on prediction of the housing prices. The attibutes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in negative way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 as the best score. 
 
 ![Project score](Resources/KaggleHousingProjectRank.png)
 - Language used - python
