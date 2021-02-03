@@ -5,7 +5,7 @@ T: (+44) 07459440712 / (+91) 9920068513
 [LinkedIn](https://www.linkedin.com/in/sanskargupta/)   
 [Github](https://github.com/Sanskar-16)  
 [Gitlab](https://cseegit.essex.ac.uk/sg19794)  
-[Kaggle](www.kaggle.com)
+[Kaggle](https://www.kaggle.com/sg19794)
 
 ---
 ## Personal profile    
