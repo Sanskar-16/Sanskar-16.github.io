@@ -1,6 +1,6 @@
 # Sanskar Gupta   
 - - -
-T: (+44) 07459440712 / +91 9920068513
+T: (+44) 07459440712 / +91 9920068513  
 [Gmail](sanskargupta15@gmail.com)   
 [LinkedIn](https://www.linkedin.com/in/sanskargupta/)   
 [Github](https://github.com/Sanskar-16)  
