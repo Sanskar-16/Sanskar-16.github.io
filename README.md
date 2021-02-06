@@ -1,10 +1,11 @@
 # Sanskar Gupta   
 - - -
-T: (+44) 07459440712   
+T: (+44) 07459440712 / (+91) 9920068513  
 [Gmail](sanskargupta15@gmail.com)   
 [LinkedIn](https://www.linkedin.com/in/sanskargupta/)   
 [Github](https://github.com/Sanskar-16)  
-[Kaggle](www.kaggle.com)
+[Gitlab](https://cseegit.essex.ac.uk/sg19794)  
+[Kaggle](https://www.kaggle.com/sg19794)
 
 ---
 ## Personal profile    
@@ -120,7 +121,7 @@ University of Essex
 - Manage the internal working of the club such as and assist the president where necessary.
 - Act as secondary point of contact for external bodies.
 
-### Essex Student representative (December 2019 – Current)
+### Essex Student representative (December 2019 – July 2020)
 University of Essex
 - Student representative for mathematical Sciences department’s modules.
 - Gather feedback from students via email, WhatsApp for different modules.
