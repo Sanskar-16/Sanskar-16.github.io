@@ -69,11 +69,13 @@ Language used - Java, HTML.
 ## Work experience
 
 ### Resident’s Assistant (October 2020 – Current)
-University of Essex							
+University of Essex		
 - Creating a sense of community through social opportunities and befriending.
-- Facilitating flat agreements, problem solving and dialogue within student accommodation using negotiation and listening skills. 
+- Using admin and organisational skills for facilitating flat agreements
+- Problem solving and dialogue within student accommodation using negotiation and listening skills. 
 - Building inclusive residential and campus wide communities and assist in the creation of an environment in which students not only live and learn but also grow.
-- Creative thinking to come up with programmes with social values for residents.
+- Creative thinking to come up with programmes with social values for residents, promoting and running those events.
+- Mental health awareness.	
 
 ### Support Worker	(February 2020 – Current)
 Lifeways – Living Ambitions
