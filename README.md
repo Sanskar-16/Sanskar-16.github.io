@@ -1,5 +1,6 @@
-layout: page
-title: "Rezume"
+layout: page  
+title: "Rezume"  
+permalink: /about/  
 
 # Sanskar Gupta   
 - - -
