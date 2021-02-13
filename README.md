@@ -58,6 +58,21 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 - Language used - python
 
 ### 2. A COVID-19 modeling and forecast tool 
+#### Sprint 1 (University Week 4):
+
+- [Familiarise with command-line cseegit](https://cseejira.essex.ac.uk/browse/A291002-14)The task was to understand basic git commands for easier navigation using command-line, push and commit my work and pull other's commits. It was completed succesfully in 4 hours.[Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/collaboration%20ver2.txt)
+
+#### Sprint 2 (University Week 5-6):
+
+- [Create a mysql database with schema](https://cseejira.essex.ac.uk/browse/A291002-60) One of the few Jira issues that I needed to do for this sprint was a subtask to create a mySQL with schema. This took me an hour to complete.[Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/c7ecfaa78fab7d9da990bc16b2a152ec38e047df/src/database/covid_mft_db_creation_script_V1.sql)
+
+- [Create Hello world file in java](https://cseejira.essex.ac.uk/browse/A291002-26) Create a 'Hello World' file in java. This task was completed in an hour.[Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/src/csee/ce291_team02/Main.java)
+
+- [File manipulation](https://cseejira.essex.ac.uk/projects/A291002/issues/A291002-63?filter=reportedbyme) Create a java class which reads, writes and exports the df file used for graphs and metrics. Nasai and I worked on this and it took us around an hour to complete. Later on, it was decided that it won't be used as a better alternative was found. [Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/d85b2e6c846153f3e434505af3b2cf158c086427/src/File%20Manipulation/File%20manipulation%20eperiment/src/FileManipulation/CreateFile.java)
+
+#### Sprint 3 (University Week 7-8):
+
+- [Implement piecewise linear regression](https://cseejira.essex.ac.uk/browse/A291002-156) Implement piecewise linear regression by including hardcoded knots and use it in our displayed and exported graphs. It was not my main task, I assisted filip with this particular task. We worked around for 4 hours roughly to get it done. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02.git)
 
 ![Prediction model!!](Resources/CovidPredictionProject.png)
 
