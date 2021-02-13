@@ -57,10 +57,13 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 ![Project score](Resources/KaggleHousingProjectRank.png)
 - Language used - python
 
-### 2. A COVID-19 modeling and forecast tool 
+### 2. A COVID-19 modeling and forecast tool  
+
+![Prediction model!!](Resources/CovidPredictionProject.png)  
+
 #### Sprint 1 (University Week 4):
 
-- [Familiarise with command-line cseegit](https://cseejira.essex.ac.uk/browse/A291002-14)The task was to understand basic git commands for easier navigation using command-line, push and commit my work and pull other's commits. It was completed succesfully in 4 hours.[Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/collaboration%20ver2.txt)
+- [Familiarise with command-line cseegit](https://cseejira.essex.ac.uk/browse/A291002-14) The task was to understand basic git commands for easier navigation using command-line, push and commit my work and pull other's commits. It was completed succesfully in 4 hours.[Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/collaboration%20ver2.txt)
 
 #### Sprint 2 (University Week 5-6):
 
@@ -74,7 +77,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 - [Implement piecewise linear regression](https://cseejira.essex.ac.uk/browse/A291002-156) Implement piecewise linear regression by including hardcoded knots and use it in our displayed and exported graphs. It was not my main task, I assisted filip with this particular task. We worked around for 4 hours roughly to get it done. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02.git)
 
-![Prediction model!!](Resources/CovidPredictionProject.png)
+![Working model!!](Resources/WorkingModel.png)  
 
 Language used - Java, HTML. 
 
