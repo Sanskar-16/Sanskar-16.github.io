@@ -1,7 +1,3 @@
-layout: page  
-title: "Rezume"  
-permalink: /about/  
-
 # Sanskar Gupta   
 - - -
 T: (+44) 07459440712 / (+91) 9920068513  
