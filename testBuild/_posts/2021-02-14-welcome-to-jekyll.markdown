@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My Resume"
 date:   2021-02-14 13:23:00 +0530
 categories: jekyll update
 ---
