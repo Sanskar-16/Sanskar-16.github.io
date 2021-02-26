@@ -93,7 +93,7 @@ University of Essex - VTeam (Animal protection project)
 - Changing status of volunteers on GradIntel.
 - Telling Session Leaders who is attending their session.
 - Helping with session planning. Sharing completed session plan with session leaders, volunteers and VTeam.
-- Helping to promote the project through stalls/lectures/society socials (mostly on social media eight now- Facebook pages, Instagram, etc.)
+- Helping to promote the project through stalls/lectures/society socials (mostly on social media right now - Facebook pages, Instagram, etc.)
 - Helping in creating promotional material.
 - Ensure project descriptions are up-to-date and relevant
 
