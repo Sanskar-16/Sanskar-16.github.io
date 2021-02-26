@@ -86,6 +86,17 @@ Language used - Java, HTML.
 *******
 ## Work experience
 
+### Communications Officer (January 2021  – Current)
+University of Essex - VTeam (Animal protection project)
+- Emailing new volunteers, welcoming them to the project.
+- Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now) etc.
+- Changing status of volunteers on GradIntel.
+- Telling Session Leaders who is attending their session.
+- Helping with session planning. Sharing completed session plan with session leaders, volunteers and VTeam.
+- Helping to promote the project through stalls/lectures/society socials (mostly on social media eight now- Facebook pages, Instagram, etc.)
+- Helping in creating promotional material.
+- Ensure project descriptions are up-to-date and relevant
+
 ### Resident’s Assistant (October 2020 – Current)
 University of Essex		
 - Creating a sense of community through social opportunities and befriending.
@@ -101,11 +112,11 @@ Lifeways – Living Ambitions
 - Being punctual to relieve colleagues from previous shifts.
 - Responsibly help them take their medications correctly and on time.
 - Make food with/for them, helps me learn about different people and their interests.
-- Working part time as and when needed by the services I am listed under. Keeps me determined to work better and harder every day.
+- Working part-time as and when needed by the services I am listed under. Keeps me determined to work better and harder every day.
 
 ### Session Leader (October 2019  – Current)
-University of Essex - VTeam
-- Working as a session leader for the animal rescue project on alternate weekends.
+University of Essex - VTeam (Animal protection project)
+- Working as a session leader for the animal protection project on alternate weekends.
 - Take attendance on volunteers’ arrival and make sure everyone reaches safely.
 - Working as a volunteer on other on and off projects and regular projects.
 
