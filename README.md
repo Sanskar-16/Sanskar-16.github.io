@@ -32,17 +32,18 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 - Complex numbers and Matrices
 - Statistics II
 - Team project challenge (Covid-19 prediction using various regression techniques)
-- Math career and employability.
+- Math career and employability
 - Data structure and algorithms
 - Optimisation (Linear programming)
+- Survival analysis
 
 ### A-levels or equivalent - Delhi Public School (2017 - 2019)
 **Subject Undertaken**
+- Computer Science 
 - Physics 
 - Maths
 - Chemistry 
 - English 
-- Computer Science 
 - Physical Education 
 
 *Grade Recived - 89% (A)*
