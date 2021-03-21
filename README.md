@@ -127,18 +127,7 @@ Languages used - Java, HTML, Python.
 **You can turn on push notifications to keep in touch with my projects**
 
 *******
-## Work experience
-
-### Communications Officer (January 2021  – Current)
-University of Essex - VTeam (Animal protection project)
-- Emailing new volunteers, welcoming them to the project.
-- Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now) etc.
-- Changing status of volunteers on GradIntel.
-- Telling Session Leaders who is attending their session.
-- Helping with session planning. Sharing completed session plan with session leaders, volunteers and VTeam.
-- Helping to promote the project through stalls/lectures/society socials (mostly on social media right now - Facebook pages, Instagram, etc.)
-- Helping in creating promotional material.
-- Ensure project descriptions are up-to-date and relevant
+## Work experience  
 
 ### Resident’s Assistant (October 2020 – Current)
 University of Essex		
@@ -155,23 +144,12 @@ Lifeways – Living Ambitions
 - Being punctual to relieve colleagues from previous shifts.
 - Responsibly help them take their medications correctly and on time.
 - Make food with/for them, helps me learn about different people and their interests.
-- Working part-time as and when needed by the services I am listed under. Keeps me determined to work better and harder every day.
-
-### Session Leader (October 2019  – Current)
-University of Essex - VTeam (Animal protection project)
-- Working as a session leader for the animal protection project on alternate weekends.
-- Take attendance on volunteers’ arrival and make sure everyone reaches safely.
-- Working as a volunteer on other on and off projects and regular projects.
+- Working part-time as and when needed by the services I am listed under. Keeps me determined to work better and harder every day.  
 
 ### Accommodation representative (October 2019 – July 2020)
 University of Essex
 - Maintain my own room to show it as a model room for visiting parents and new students.
 - Fill in timesheets in a particular time frame to get paid for the shifts held.
-
-### Volunteer (October 2019 - Jul 2020)
-University of Essex – Nightline
-- Confidential listening and support service run by the students for the students at the university.
-- Basic first aid/bystander trained.
 
 ### Team Member	(May 2019 - August 2019)
 Theobroma - Food of the Gods
@@ -180,13 +158,6 @@ Theobroma - Food of the Gods
 - Well Experienced in waiting tables, closing shift, managing orders.
 - Responsibly handle cash whenever needed.
 - Converse with customers for feedback on the service provided and how can it be improved.
-
-### Volunteer (April 2017 - June 2017)
-The Akanksha Foundation
-- Worked as a Volunteer to align the HR activities in MS Excel during appraisals.
-- Helped the team with Employee data and MIS.
-- Coordination with the HR team and field Volunteer for organizing an annual day.
-
 ***
 ## Positions of responsibility
 
@@ -199,7 +170,37 @@ University of Essex
 University of Essex
 - Student representative for mathematical Sciences department’s modules.
 - Gather feedback from students via email, WhatsApp for different modules.
-- Communicate efficiently with higher authorities to convey the feedback.
+- Communicate efficiently with higher authorities to convey the feedback.  
+
+## Volunteering experience
+
+### Communications Officer (January 2021  – Current)
+University of Essex - VTeam (Animal protection project)
+- Emailing new volunteers, welcoming them to the project.
+- Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now) etc.
+- Changing the status of volunteers on GradIntel.
+- Telling Session Leaders who are attending their session.
+- Helping with session planning. Sharing completed session plan with session leaders, volunteers and VTeam.
+- Helping to promote the project through stalls/lectures/society socials (mostly on social media right now - Facebook pages, Instagram, etc.)
+- Helping in creating promotional material.
+- Ensure project descriptions are up-to-date and relevant  
+
+### Session Leader (October 2019  – January 2021)
+University of Essex - VTeam (Animal protection project)
+- Working as a session leader for the animal protection project on alternate weekends.
+- Take attendance on volunteers’ arrival and make sure everyone reaches safely.
+- Working as a volunteer on other on and off projects and regular projects.
+
+### Volunteer (October 2019 - Jul 2020)
+University of Essex – Nightline
+- Confidential listening and support service run by the students for the students at the university.
+- Basic first aid/bystander trained.  
+
+### Volunteer (April 2017 - June 2017)
+The Akanksha Foundation
+- Worked as a Volunteer to align the HR activities in MS Excel during appraisals.
+- Helped the team with Employee data and MIS.
+- Coordination with the HR team and field Volunteer for organizing an annual day.
 
 ---
 ## Skills:
@@ -216,4 +217,4 @@ University of Essex
 - Mobile/Console gaming – I participate in local tournaments for CODM, helps me concentrate, keeps me aware and meet new people with same interest.
 
 ---
-## Reference available on request
+## Reference available on request  
