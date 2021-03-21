@@ -171,7 +171,7 @@ University of Essex
 - Student representative for mathematical Sciences department’s modules.
 - Gather feedback from students via email, WhatsApp for different modules.
 - Communicate efficiently with higher authorities to convey the feedback.  
-
+***
 ## Volunteering experience
 
 ### Communications Officer (January 2021  – Current)
