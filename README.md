@@ -158,7 +158,8 @@ Theobroma - Food of the Gods
 - Well Experienced in waiting tables, closing shift, managing orders.
 - Responsibly handle cash whenever needed.
 - Converse with customers for feedback on the service provided and how can it be improved.
-***
+
+---
 ## Positions of responsibility
 
 ### Vice-President – Cycling club (October 2020 – Current)
@@ -170,8 +171,9 @@ University of Essex
 University of Essex
 - Student representative for mathematical Sciences department’s modules.
 - Gather feedback from students via email, WhatsApp for different modules.
-- Communicate efficiently with higher authorities to convey the feedback.  
-***
+- Communicate efficiently with higher authorities to convey the feedback.
+
+---
 ## Volunteering experience
 
 ### Communications Officer (January 2021  – Current)
