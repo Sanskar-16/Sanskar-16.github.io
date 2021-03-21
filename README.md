@@ -86,7 +86,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 - [Product demonstration report](https://cseejira.essex.ac.uk/browse/A291002-143) Completed the MVP demonstration along with Dean. We spent around an hour 
 
-![Working model](resources/WorkingModel.png)  
+![Working model](Resources/WorkingModel.png)  
 
 ### Sprint 5 (University Week 11-12):
 
@@ -106,7 +106,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 - [Working on Colour-coded map](https://cseejira.essex.ac.uk/browse/A291002-261) Created a package for the classes required for the colour-coded map, sorted through classes, made sure the imports were properly organized. Attempted to render the basic map without colour segregation. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
 
-![Map](resources/Map.png)  
+![Map](Resources/Map.png)  
 
 ### Sprint 9 (Univerity Week 22-23):
 
@@ -120,7 +120,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 - [Showing country flags](https://cseejira.essex.ac.uk/browse/A291002-343) Filip and I sat for around 3 hours, created a helper class that fetches the generated flags in .png format and using AppConstants, the flags were successfully displayed next to the drop-down list. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/CountryFlagHelper.java)
 
-![Comparison tab](resources/ComparisonTab.jpeg)  
+![Comparison tab](Resources/ComparisonTab.jpeg)  
 
 Languages used - Java, HTML, Python.
 
