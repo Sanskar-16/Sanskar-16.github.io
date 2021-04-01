@@ -15,7 +15,7 @@ website: sanskar-16.github.io
 darkmode: true
 
 # Social links
-github_username:  sproogen
+github_username:  sanskar-16
 # instagram_username: jekyll
 # twitter_username: jekyll
 # stackoverflow_username: "00000001"
@@ -25,7 +25,7 @@ github_username:  sproogen
 linkedin_username: sanskargupta
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -62,7 +62,7 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  CV
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -91,27 +91,53 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Essec
+        title: University of Essex
         caption: 2019 - 2023
-        sub_title: BSc Data Science
+        sub_title: BSc Data Science and Analytics
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Modules taken -
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          - Object oriented programming (Java, Python)
+          - Data structure and Algorithms
+          - Artificial intelligence
+          - Database managament and Information storage/retrieval systems
+          - Calculus, Complex number and Matrices
+          - Discrete Mathematics
+          - Optimisation (LP)
+          - Statistics I, Statistics II, Survival Analysis (R)
+          - Team project Challenge (Kaggle housing project)(Machine Learning)
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+    content:
+      - layout: left
+        title: Delhi Public School
+        caption: 2017 - 2019
+        sub_title: PCM (CBSE)
+        quote: >
+          Subjects taken - 
+        description: 
+          - Physics
+          - Chemistry
+          - Math
+          - English
+          - Computer Science
+          - Pyhiscal Education
+
+  - title: Skills
+    layout: text
+    content: 
+      - Languages known - English, Hindi, Spanish (Beginner)
+      - Git, Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++, Jira.
+      - Conversant with Windows, Mac, MS office & Internet-based applications.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in data and computer science, some of my other interests and hobbies are:
+      - Sports and fitness - helps me keep active and agile. I am passionate about football.
+      - Gaming - I participate in local tournaments for call of duty: mobile. Helps me relax and meet new people with same interests.
+      - Attending webinars and conferences like NDC.
+      - Cycle touring - Exploring nearby areas, and do long rides.
+      - Listening and working with music - I love to play keyboard and drums in my free time.
 
 # Footer
 footer_show_references: true
