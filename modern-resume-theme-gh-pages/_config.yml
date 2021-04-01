@@ -113,7 +113,7 @@ content:
         sub_title: PCM (CBSE)
         quote: >
           Subjects taken - 
-        description: 
+        description: |
           - Physics
           - Chemistry
           - Math
@@ -123,7 +123,7 @@ content:
 
   - title: Skills
     layout: text
-    content: 
+    content: |
       - Languages known - English, Hindi, Spanish (Beginner)
       - Git, Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++, Jira.
       - Conversant with Windows, Mac, MS office & Internet-based applications.
