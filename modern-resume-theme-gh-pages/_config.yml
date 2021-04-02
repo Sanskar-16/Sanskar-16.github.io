@@ -1,6 +1,6 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+# repository: sproogen/resume-theme
+# favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -9,31 +9,25 @@ version: 2
 name: Sanskar Gupta
 title: BSc Data science student (2nd year)
 email: sanskargupta15@gmail.com
-website: sanskar-16.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 github_username:  sanskar-16
+linkedin_username: sanskargupta
 # instagram_username: jekyll
 # twitter_username: jekyll
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
-linkedin_username: sanskargupta
-# xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: CV link
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: sanskar-16.github.io
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,34 +45,14 @@ about_content: | # this will include new lines to allow paragraphs
   I am a BSc Data Science student, looking for a placement/internship opportunity. I have dedicated much of my life to community support work and have excellent customer service skills as a result of being a good communicator. I speak three languages and I have extensive programming skills, which I enjoy using for open-sourced coding projects. I have worked on lots of volunteering projects and various jobs throughout my studies at the university.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  CV
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Essex
-        link: essex.ac.uk/life/accommodation/living-on-campus/residence-life
-        # link_text: boringcompany.com
-        sub_title: Resident Assistant
         caption: October 2020 - Present
+        sub_title: Resident Assistant
+        # link: https://www.essex.ac.uk/life/accommodation/living-on-campus/residence-life
         description: | # this will include new lines to allow paragraphs
           - Creating a sense of community through social opportunities and befriending.
           - Using admin and organisational skills for facilitating flat agreements  
@@ -86,6 +60,39 @@ content:
           - Building inclusive residential and campus wide communities and assist in the creation of an environment in which     students not only live and learn but also grow.
           - Creative thinking to come up with programmes with social values for residents, promoting and running those events.
           - Mental health awareness.
+
+      - layout: left
+        title: Living Ambition - Lifeways
+        caption: February 2020 - Present
+        sub_title: Support worker
+        # link: https://www.lifeways.co.uk/
+        description: |
+          - Working as a support worker by helping the service users carry out their day-to-day task.
+          - Being punctual to relieve colleagues from previous shifts.
+          - Responsibly help them take their medications correctly and on time.
+          - Make food with/for them, helps me learn about different people and their interests.
+          - Working part-time as and when needed by the services I am listed under. Keeps me determined to work better and harder every day.
+      
+      - layout: left
+        title: University of Essex
+        sub_title: Accommodation representative
+        caption: October 2019 - June 2020
+        # link: https://www.lifeways.co.uk/
+        description: | 
+          - Maintain my own room to show it as a model room for visiting parents and new students.
+          - Fill in timesheets in a particular time frame to get paid for the shifts held.
+      
+      - layout: left
+        title: Theobroma - Food of the Gods
+        sub_title: Team member
+        caption: May 2019 - August 2019
+        # link: https://theobroma.in/
+        description: |
+          - Worked as a Team Member to provide quality service.
+          - Coordinated with the team to deliver in the best interest of the customer.
+          - Well Experienced in waiting tables, closing shift, managing orders.
+          - Responsibly handle cash whenever needed.
+          - Converse with customers for feedback on the service provided and how can it be improved.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,12 +128,33 @@ content:
           - Pyhiscal Education
           Grade Recieved - 89%(A)
 
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Covid-19 Modelling and forecasting tool
+        link: https://cseegit.essex.ac.uk/2020_ce291/ce291_team02
+        # link_text: Project Website
+        additional_links:
+          - title:  CV
+            icon: fab fa-github
+            url: github.com/sanskar-16
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest projects I have worked on.
+        description: | # this will include new lines to allow paragraphs
+          I started this project in my second year at the university as a part of the challenge week team project. I worked alongside 6 other people to produce a minimum viable product in 3 months, which eventually leads to the final product.
+
   - title: Skills
     layout: text
     content: |
       - Languages known - English, Hindi, Spanish (Beginner)
-      - Git, Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++, Jira.
-      - Conversant with Windows, Mac, MS office & Internet-based applications.
+      - Version control (Git), Project management (Jira) 
+      - Languages (Python, MySQL, R, MATLAB, Java, HTML, C++(Begineer).
+      - Concepts (Machine Learning, Statistics, AI).
+      - Conversant with Windows, Mac, MS office & other internet-based applications.
 
   - title: A Little More About Me
     layout: text
