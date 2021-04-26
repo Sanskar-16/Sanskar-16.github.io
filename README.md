@@ -14,18 +14,18 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 ## Education 
 
 ### BSc Data Science - University of Essex (2019 - 2023) 
-**First year modules**
+**First-year modules**
 - Introduction to programming
 - Introduction to databases
 - Calculus
 - Discrete Mathematics
 - Statistics I
 - Team project Challenge (Kaggle housing project)(Machine Learning)
-- Object oriented programming 
+- Object-oriented programming 
 
-*Grade Recieved - 1st (73%)*
+*Grade Received - 1st (73%)*
 
-**Second year modules**
+**Second-year modules**
 - Artificial Intelligence 
 - Databases and Information retrieval
 - Complex numbers and Matrices
@@ -45,18 +45,20 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 - English 
 - Physical Education 
 
-*Grade Recived - 89% (A)*
+*Grade Received - 89% (A)*
 
 * * * * * * * *
 ## Projects worked on 
-### 1. Kaggle Housing project 
+### 1. House Prices - Advanced Regression Techniques.
 
 ![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
-- This project was based on prediction of the housing prices. The attibutes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in negative way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
+- This project was based on prediction of the housing prices using feature engineering, RFs and gradient boosting. The attibutes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesiable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
 - RMSE also knows as Root mean square error is the deviation of the residuals, Residals are a meausre of how far from the regression line data points are.
+- We initally based our predictions off of random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
 
 ![Project score](Resources/KaggleHousingProjectRank.png)
-- Language used - python
+- Language/Libraries used - python (pandas, seaborn, matplotlib, numpy, scipy, sklearn)
+- Algorithms used - random forest, XGBoost.
 
 ### 2. A COVID-19 modeling and forecast tool  
 
@@ -134,13 +136,13 @@ University of Essex
 - Creating a sense of community through social opportunities and befriending.
 - Using admin and organisational skills for facilitating flat agreements
 - Problem solving and dialogue within student accommodation using negotiation and listening skills. 
-- Building inclusive residential and campus wide communities and assist in the creation of an environment in which students not only live and learn but also grow.
+- Building inclusive residential and campus-wide communities and assist in the creation of an environment in which students not only live and learn but also grow.
 - Creative thinking to come up with programmes with social values for residents, promoting and running those events.
 - Mental health awareness.	
 
 ### Support Worker	(February 2020 – Current)
 Lifeways – Living Ambitions
-- Working as a support worker by helping the service users carry out their day-to-day task.
+- Working as a support worker by helping the service users carry out their day-to-day tasks.
 - Being punctual to relieve colleagues from previous shifts.
 - Responsibly help them take their medications correctly and on time.
 - Make food with/for them, helps me learn about different people and their interests.
@@ -165,7 +167,7 @@ Theobroma - Food of the Gods
 ### Vice-President – Cycling club (October 2020 – Current)
 University of Essex
 - Manage the internal working of the club such as and assist the president where necessary.
-- Act as secondary point of contact for external bodies.
+- Act as a secondary point of contact for external bodies.
 
 ### Essex Student representative (December 2019 – July 2020)
 University of Essex
@@ -179,10 +181,10 @@ University of Essex
 ### Communications Officer (January 2021  – Current)
 University of Essex - VTeam (Animal protection project)
 - Emailing new volunteers, welcoming them to the project.
-- Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now) etc.
+- Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now), etc.
 - Changing the status of volunteers on GradIntel.
 - Telling Session Leaders who are attending their session.
-- Helping with session planning. Sharing completed session plan with session leaders, volunteers and VTeam.
+- Helping with session planning. Sharing completed session plan with session leaders, volunteers, and VTeam.
 - Helping to promote the project through stalls/lectures/society socials (mostly on social media right now - Facebook pages, Instagram, etc.)
 - Helping in creating promotional material.
 - Ensure project descriptions are up-to-date and relevant  
@@ -195,7 +197,7 @@ University of Essex - VTeam (Animal protection project)
 
 ### Volunteer (October 2019 - Jul 2020)
 University of Essex – Nightline
-- Confidential listening and support service run by the students for the students at the university.
+- Confidential listening and support services run by the students for the students at the university.
 - Basic first aid/bystander trained.  
 
 ### Volunteer (April 2017 - June 2017)
