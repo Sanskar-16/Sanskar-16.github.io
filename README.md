@@ -64,63 +64,9 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 ![Prediction model!!](Resources/CovidPredictionProject.png)  
 
-### Sanskar Gupta
-
-### Sprint 1 (University Week 4):
-
-- [Familiarise with command-line cseegit](https://cseejira.essex.ac.uk/browse/A291002-14)The task was to understand basic git commands for easier navigation using command-line, push and commit my work and pull other's commits. It was completed successfully in 4 hours. [Gitlab commit](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/collaboration%20ver2.txt)
-
-### Sprint 2 (University Week 5-6):
-
-- [Create a MySQL database with schema](https://cseejira.essex.ac.uk/browse/A291002-60) One of the few Jira issues that I needed to do for this sprint was a subtask to create a MySQL with the schema. This took me an hour to complete. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/c7ecfaa78fab7d9da990bc16b2a152ec38e047df/src/database/covid_mft_db_creation_script_V1.sql)
-
-- [Create Hello world file in java](https://cseejira.essex.ac.uk/browse/A291002-26) Create a 'Hello World' file in java. This task was completed in an hour. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/src/csee/ce291_team02/Main.java)
-
-- [File manipulation](https://cseejira.essex.ac.uk/projects/A291002/issues/A291002-63?filter=reportedbyme) Create a java class that reads, writes and exports the df file used for graphs and metrics. Nasar and I worked on this and it took us around an hour to complete. Later on, it was decided that it won't be used as a better alternative was found. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/d85b2e6c846153f3e434505af3b2cf158c086427/src/File%20Manipulation/File%20manipulation%20eperiment/src/FileManipulation/CreateFile.java)
-
-### Sprint 3 (University Week 7-8):
-
-- [Implement piecewise linear regression](https://cseejira.essex.ac.uk/browse/A291002-156) Implement piecewise linear regression by including hardcoded knots and use it in our displayed and exported graphs. It was not my main task, I assisted Filip with this particular task. We worked around for 4 hours roughly to get it done.  [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/A291002-290-country-comparison-adaptation/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/MugStats/Regression/PclRegression.java)
-
-### Sprint 4 (University Week 9-10):
-
-- [Requirements and risk log](https://cseejira.essex.ac.uk/browse/A291002-136) Worked around 2 hours completing the risk and requirements log for the MVP documentation. Identifying all the risks when the program runs.
-
-- [Product demonstration report](https://cseejira.essex.ac.uk/browse/A291002-143) Completed the MVP demonstration along with Dean. We spent around an hour 
-
 ![Working model](Resources/WorkingModel.png)  
 
-### Sprint 5 (University Week 11-12):
-
-- [Research for feature proposal](https://cseejira.essex.ac.uk/browse/A291002-40) My task was to research the extra features which could be added to the product to improve its value. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
-### Sprint 6 (University Week 17-18):
-
-- [Feature proposal](https://cseejira.essex.ac.uk/browse/A291002-173) Pitched in the idea for extra features which could be added to the product. I suggested a colour-coded map and a FAQ tab. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
-### Sprint 7 (University Week 19-20):
-
-- [Research on Colour-coded map](https://cseejira.essex.ac.uk/browse/A291002-205) Looked for details on how to show a map segregated by colours based on case density of the various regions. This task took me 5 hours to find out everything. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
-### Sprint 8 (University Week 21):
-
-- [Plan for Color-coded map](https://cseejira.essex.ac.uk/browse/A291002-260) Spent around 2h 30m on planning the implementation of the colour-coded map along with Filip. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
-- [Working on Colour-coded map](https://cseejira.essex.ac.uk/browse/A291002-261) Created a package for the classes required for the colour-coded map, sorted through classes, made sure the imports were properly organized. Attempted to render the basic map without colour segregation. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
 ![Map](Resources/Map.png)  
-
-### Sprint 9 (Univerity Week 22-23):
-
-- [Markdown documentation](https://cseejira.essex.ac.uk/browse/A291002-321) Made a marketing plan working alongside Reece, looked up various ways in which the product can be promoted and advertised with minimal costs. Set the target market. Also considered what our competition would be and what features do we have which makes our product stand out. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/doc/FinalProductDocumentation/MarketingPlan.md)
-
-- [Markdown documentaion](https://cseejira.essex.ac.uk/browse/A291002-339) Worked on product context report. The Ethical column and health and safety column were my responsibility and I spent around an hour completing those. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/doc/FinalProductDocumentation/ProductContextReport.md)
-
-- [Redoing the colour-coded map work](https://cseejira.essex.ac.uk/browse/A291002-282) Redid all the work done in the previous sprint as I messed up while adding the files via git. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/ColourCodedMap)
-
-- [Fetch every country flag mentioned in the drop-down list](https://cseejira.essex.ac.uk/browse/A291002-303) Resolved country flags using Filip's guidance on the data collected by him. Using regex and Powershell, sorted through the data to get just links and was able to download all the images in png format from the obtained URLs.[Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/tree/master/src/covid-mft-desktop-jv/src/main/Resources/Flags)
-
-- [Showing country flags](https://cseejira.essex.ac.uk/browse/A291002-343) Filip and I sat for around 3 hours, created a helper class that fetches the generated flags in .png format and using AppConstants, the flags were successfully displayed next to the drop-down list. [Permalink](https://cseegit.essex.ac.uk/2020_ce291/ce291_team02/-/blob/master/src/covid-mft-desktop-jv/src/main/java/csee/ce291_team02/CountryFlagHelper.java)
 
 ![Comparison tab](Resources/ComparisonTab.jpeg)  
 
