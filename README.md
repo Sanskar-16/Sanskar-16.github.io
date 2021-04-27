@@ -62,6 +62,11 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 ### 2. A COVID-19 modeling and forecast tool  
 
+- This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forcasting tool using data avaialable online. 
+- We used Piecewise linear regression algorithm to predict the graph.
+- We have also included a colour coded map, which shows the nuber of cases in a region based on colours.
+- Another feature which our product entails is the country comparison tab which as the name suggests compares two countries and shows various metrics for their data.
+
 ![Prediction model!!](Resources/CovidPredictionProject.png)  
 
 ![Working model](Resources/WorkingModel.png)  
