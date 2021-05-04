@@ -52,20 +52,20 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 ### 1. House Prices - Advanced Regression Techniques.
 
 ![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
-- This project was based on prediction of the housing prices using feature engineering, RFs and gradient boosting. The attibutes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesiable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
-- RMSE also knows as Root mean square error is the deviation of the residuals, Residals are a meausre of how far from the regression line data points are.
-- We initally based our predictions off of random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
+- This project was based on a prediction of the housing prices using feature engineering, RFs and gradient boosting. The attributes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesirable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
+- RMSE also knows as Root mean square error is the deviation of the residuals, Residuals are a measure of how far from the regression line data points are.
+- We initially based our predictions on random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
 
 ![Project score](Resources/KaggleHousingProjectRank.png)
-- Language/Libraries used - python (pandas, seaborn, matplotlib, numpy, scipy, sklearn)
+- Language/Libraries used - python (pandas, seaborn, matplotlib, NumPy, scipy, sklearn)
 - Algorithms used - random forest, XGBoost.
 
-### 2. A COVID-19 modeling and forecast tool  
+### 2. A COVID-19 modelling and forecast tool  
 
-- This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forcasting tool using data avaialable online. 
+- This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forecasting tool using data available online. 
 - We used Piecewise linear regression algorithm to predict the graph.
-- We have also included a colour coded map, which shows the nuber of cases in a region based on colours.
-- Another feature which our product entails is the country comparison tab which as the name suggests compares two countries and shows various metrics for their data.
+- We have also included a colour-coded map, which shows the number of cases in a region based on colours.
+- Another feature that our product entails is the country comparison tab which as the name suggests compares two countries and shows various metrics for their data.
 
 ![Prediction model!!](Resources/CovidPredictionProject.png)  
 
@@ -85,7 +85,7 @@ I started this project to gain basic insights into ML and how kaggle works. I ac
 
 ![Titanic](Resources/Titanic1.png)
 
-Languages/libraries used - Python (pandas, numpy)
+Languages/libraries used - Python (pandas, NumPy)
 
 **You can turn on push notifications to keep in touch with my projects**
 
