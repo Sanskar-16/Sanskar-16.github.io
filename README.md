@@ -98,7 +98,7 @@ University of Essex
 - Using admin and organisational skills for facilitating flat agreements
 - Problem solving and dialogue within student accommodation using negotiation and listening skills. 
 - Building inclusive residential and campus-wide communities and assist in the creation of an environment in which students not only live and learn but also grow.
-- Creative thinking to come up with programmes with social values for residents, promoting and running those events.
+- Creative thinking to come up with programs with social values for residents, promoting and running those events.
 - Mental health awareness.	
 
 ### Support Worker	(February 2020 – Current)
