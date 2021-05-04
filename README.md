@@ -77,6 +77,16 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 Languages used - Java, HTML, Python.
 
+### 3. Titanic - ML from disaster
+
+![Titanic](resources/Titanic2.png)
+
+I started this project to gain basic insights into ML and how kaggle works. I achieved a score of 0.775 compared to the best score of 1. The competition uses machine learning to create a model that predicts which passengers survived the Titanic shipwreck. I do plan on improving my score once I learn more algorithms and have a better understanding of the dataset.
+
+![Titanic](resources/Titanic1.png)
+
+Languages/libraries used - Python (pandas, numpy)
+
 **You can turn on push notifications to keep in touch with my projects**
 
 *******
