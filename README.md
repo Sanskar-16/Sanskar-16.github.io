@@ -36,6 +36,8 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 - Optimisation (Linear programming)
 - Survival analysis
 
+*Grade Received - 1st (71%)*
+
 ### A-levels or equivalent - Delhi Public School (2017 - 2019)
 **Subject Undertaken**
 - Computer Science 
