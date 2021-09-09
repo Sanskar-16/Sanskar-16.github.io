@@ -3,7 +3,7 @@ T: (+44) 07459440712 / (+91) 9920068513
 | [Gmail](sanskargupta15@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/sanskargupta/) | 
 [Github](https://github.com/Sanskar-16) | 
-[Kaggle](https://www.kaggle.com/sg19794) | 
+[Kaggle](https://www.kaggle.com/sanskar16) | 
 [Twitter](https://twitter.com/Sanskar1531) | 
 
 ---
