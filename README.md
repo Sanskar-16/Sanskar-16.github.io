@@ -38,6 +38,15 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 *Grade Received - 1st (71%)*
 
+**Third-year modules**
+- Natural language engineering(NLP)
+- Capstone Project (Opinion forming using Graph theory)
+- Modelling Experimental Data
+- Applied Statistics 
+- Information Retrieval
+- Data Visualisation
+- Math career and employability.
+
 ### A-levels or equivalent - Delhi Public School (2017 - 2019)
 **Subject Undertaken**
 - Computer Science 
