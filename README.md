@@ -60,18 +60,18 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 * * * * * * * *
 ## Projects worked on 
-### 1. [House Prices - Advanced Regression Techniques](https://github.com/Sanskar-16/house-price-new)
 
-![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
-- This project was based on a prediction of the housing prices using feature engineering, RFs and gradient boosting. The attributes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesirable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
-- RMSE also knows as Root mean square error is the deviation of the residuals, Residuals are a measure of how far from the regression line data points are.
-- We initially based our predictions on random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
+### 1. [Capstone Project (dissertaion for third year)](https://github.com/Sanskar-16/capstone)
 
-![Project score](Resources/KaggleHousingProjectRank.png)
-- Language/Libraries used - python (pandas, seaborn, matplotlib, NumPy, scipy, sklearn)
-- Algorithms used - random forest, XGBoost.
+### 2. [Natural Language Engineering](https://github.com/Sanskar-16/NLE-assignment)
 
-### 2. [A COVID-19 modelling and forecast tool](https://github.com/Sanskar-16/covid-project)  
+### 3. [My own twitter data analysis](https://github.com/Sanskar-16/twitter)
+
+### 4. [My own spotify data analysis](https://github.com/Sanskar-16/spotify)
+
+### 5. [Analysis on F1 data](https://github.com/Sanskar-16/f1)
+
+### 6. [A COVID-19 modelling and forecast tool](https://github.com/Sanskar-16/covid-project)  
 
 - This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forecasting tool using data available online. 
 - We used Piecewise linear regression algorithm to predict the graph.
@@ -88,7 +88,18 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 Languages used - Java, HTML, Python.
 
-### 3. [Titanic - ML from disaster](https://github.com/Sanskar-16/titanic)
+### 7. [House Prices - Advanced Regression Techniques](https://github.com/Sanskar-16/house-price-new)
+
+![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
+- This project was based on a prediction of the housing prices using feature engineering, RFs and gradient boosting. The attributes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesirable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
+- RMSE also knows as Root mean square error is the deviation of the residuals, Residuals are a measure of how far from the regression line data points are.
+- We initially based our predictions on random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.
+
+![Project score](Resources/KaggleHousingProjectRank.png)
+- Language/Libraries used - python (pandas, seaborn, matplotlib, NumPy, scipy, sklearn)
+- Algorithms used - random forest, XGBoost.
+
+### 8. [Titanic - ML from disaster](https://github.com/Sanskar-16/titanic)
 
 ![Titanic](Resources/Titanic2.png)
 
@@ -97,14 +108,6 @@ I started this project to gain basic insights into ML and how kaggle works. I ac
 ![Titanic](Resources/Titanic1.png)
 
 Languages/libraries used - Python (pandas, NumPy)
-
-### 4. [My own twitter data analysis](https://github.com/Sanskar-16/twitter)
-
-### 5. [My own spotify data analysis](https://github.com/Sanskar-16/spotify)
-
-### 6. [Natural Language Engineering](https://github.com/Sanskar-16/NLE-assignment)
-
-### 7. [Analysis on Fq1 data](https://github.com/Sanskar-16/f1)
 
 *******
 ## Work experience  
