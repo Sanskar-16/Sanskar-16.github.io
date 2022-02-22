@@ -60,7 +60,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 * * * * * * * *
 ## Projects worked on 
-### 1. House Prices - Advanced Regression Techniques.
+### 1. [House Prices - Advanced Regression Techniques](https://github.com/Sanskar-16/house-price-new)
 
 ![Ranked kaggle housing project](Resources/KaggleHousingProject.png)
 - This project was based on a prediction of the housing prices using feature engineering, RFs and gradient boosting. The attributes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesirable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score.  
@@ -71,7 +71,7 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 - Language/Libraries used - python (pandas, seaborn, matplotlib, NumPy, scipy, sklearn)
 - Algorithms used - random forest, XGBoost.
 
-### 2. A COVID-19 modelling and forecast tool  
+### 2. [A COVID-19 modelling and forecast tool](https://github.com/Sanskar-16/covid-project)  
 
 - This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forecasting tool using data available online. 
 - We used Piecewise linear regression algorithm to predict the graph.
@@ -88,11 +88,9 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 Languages used - Java, HTML, Python.
 
-### 3. Titanic - ML from disaster 
+### 3. [Titanic - ML from disaster](https://github.com/Sanskar-16/titanic)
 
 ![Titanic](Resources/Titanic2.png)
-
-[link to the project - ](https://github.com/Sanskar-16/titanic)
 
 I started this project to gain basic insights into ML and how kaggle works. I achieved a score of 0.775 compared to the best score of 1. The competition uses machine learning to create a model that predicts which passengers survived the Titanic shipwreck. I do plan on improving my score once I learn more algorithms and have a better understanding of the dataset.
 
@@ -100,20 +98,34 @@ I started this project to gain basic insights into ML and how kaggle works. I ac
 
 Languages/libraries used - Python (pandas, NumPy)
 
-### 4. My own twitter data analysis
+### 4. [My own twitter data analysis](https://github.com/Sanskar-16/twitter)
 
-### 5. My own spotify data analysis
+### 5. [My own spotify data analysis](https://github.com/Sanskar-16/spotify)
 
-### 6. Natural Language Engineering
+### 6. [Natural Language Engineering](https://github.com/Sanskar-16/NLE-assignment)
 
-### 7. 
-
-**You can turn on push notifications to keep in touch with my projects**
+### 7. [Analysis on Fq1 data](https://github.com/Sanskar-16/f1)
 
 *******
 ## Work experience  
 
-### Resident’s Assistant (October 2020 – Current)
+### Chef (Nov 2021 - Current) 
+Ask Italian
+- Create and present quality food in accordance with company specs.
+
+### Student Ambassador (October 2021 - current)
+University of Essex
+- Part of the Communications and External Relations Team.
+- Predominately undertaking duties for the Outreach and Marketing and Student Recruitment teams.
+- Supporting the above-mentioned teams by providing a current student’s perspective and general assistance at the University’s Outreach and Marketing and Student Recruitment teams.
+- At key points throughout the year, supporting other teams across the University on approved, Student 
+ Ambassador related activities.
+- Outreach events involve working with young people aged 11-18 years and also work specifically with groups of people under-represented at universities, including mature students, students with disabilities and care leavers. At such events, providing positive role models in Higher Education and being committed to the objectives of widening access.
+- Working with post-16 students at on-campus events such as pre-application Open Days, Applicant 
+ Days and Campus Tours for Marketing and Student Recruitment events.
+- Student Ambassadors also importantly work with the parents/guardians of young people and applicants. They may have the opportunity for office-based experience.
+
+### Resident’s Assistant (October 2020 – June 2021)
 University of Essex		
 - Creating a sense of community through social opportunities and befriending.
 - Using admin and organisational skills for facilitating flat agreements
@@ -122,7 +134,7 @@ University of Essex
 - Creative thinking to come up with programs with social values for residents, promoting and running those events.
 - Mental health awareness.	
 
-### Support Worker	(February 2020 – Current)
+### Support Worker	(February 2020 – October 2020)
 Lifeways – Living Ambitions
 - Working as a support worker by helping the service users carry out their day-to-day tasks.
 - Being punctual to relieve colleagues from previous shifts.
@@ -146,7 +158,7 @@ Theobroma - Food of the Gods
 ---
 ## Positions of responsibility
 
-### Vice-President – Cycling club (October 2020 – Current)
+### Vice-President – Cycling club (October 2020 – July 2021)
 University of Essex
 - Manage the internal working of the club such as and assist the president where necessary.
 - Act as a secondary point of contact for external bodies.
@@ -189,18 +201,25 @@ The Akanksha Foundation
 - Coordination with the HR team and field Volunteer for organizing an annual day.
 
 ---
-## Skills:
-- Languages Known: English, Hindi, Spanish (Beginner)
-- Git, Python, MySQL, R, MATLAB, AI, Java, Machine Learning, HTML, Statistics, C++, Jira.
+## Languages:
+- English (Fluent) 
+- Hindi (Fluent)
+- Spanish (Beginner)
+
+## Technical Skills:
+- Git (version control), Jira (Project management)
+- Programming languages -> Python, MySQL, R, Java, HTML, C++.
+- Software Experince - MATLAB, RStudio, Jetbrains softwares, Power BI, Tableau.
+- Data Science Platform experience - Kaggle, Github, 
 - Conversant with Windows, Mac, MS office & Internet-based applications.
 
 ---
 ## Interests and Activities
-- Working and improvising on open-sourced coding – participated in Kaggle housing project, Covid prediction model.
+- Neural Networks, Computer Vision, Art using ML/AI, Deep Learning, Cloud computing.
 - Participating in sports and fitness – helps me keep active and a good physique. I'm passionate about football.
 - Listening and working with Music and beats – keeps me relaxed. I play intruments too (keyboard and drums).
 - Cycle touring – explore nearby areas, go for long rides.
-- Mobile/Console gaming – I participate in local tournaments for CODM, helps me concentrate, keeps me aware and meet new people with same interest.
+- Gaming – COD, Chess.
 
 ---
 ## Reference available on request  
