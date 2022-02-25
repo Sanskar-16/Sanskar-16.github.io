@@ -63,6 +63,8 @@ I am a BSc Data Science student, looking for a placement/internship opportunity.
 
 ### 1. [Capstone Project (dissertaion for third year)](https://github.com/Sanskar-16/capstone)
 
+![Graph theory!](Resources/capstone.png)  
+
 ### 2. [Natural Language Engineering](https://github.com/Sanskar-16/NLE-assignment)
 
 ### 3. [My own twitter data analysis](https://github.com/Sanskar-16/twitter)
