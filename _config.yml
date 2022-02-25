@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Sanskar Gupta
 decription: [Get to know me and my work] 
-show_downloads: false
+show_downloads: true
 
 github_username: jekyll
