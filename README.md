@@ -51,6 +51,10 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
 - Data Visualisation
 - Math career and employability.
 
+*Grade Received - 1st (72%)*
+
+Overall Grade - 1st
+
 ### A-levels or equivalent - Delhi Public School (2017 - 2019)
 **Subject Undertaken**
 - Computer Science 
@@ -65,17 +69,17 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
 * * * * * * * *
 ## Projects worked on 
 
-### 1. [Capstone Project (dissertaion for third year)](https://github.com/Sanskar-16/capstone)
+### 1. [Capstone Project - Dissertaion](https://github.com/Sanskar-16/capstone)
 
 ![Graph theory!](Resources/capstone.png)  
 
 ### 2. [Natural Language Engineering](https://github.com/Sanskar-16/NLE-assignment)
 
-### 3. [My own twitter data analysis](https://github.com/Sanskar-16/twitter)
+### 3. [Twitter data/sentiment analysis](https://github.com/Sanskar-16/twitter)
 
-### 4. [My own spotify data analysis](https://github.com/Sanskar-16/spotify)
+### 4. [Sotify data analysis](https://github.com/Sanskar-16/spotify)
 
-### 5. [Analysis on F1 data](https://github.com/Sanskar-16/f1)
+### 5. [F1 data analysis](https://github.com/Sanskar-16/f1)
 
 ### 6. [A COVID-19 modelling and forecast tool](https://github.com/Sanskar-16/covid-project)  
 
@@ -118,11 +122,14 @@ Languages/libraries used - Python (pandas, NumPy)
 *******
 ## Work experience  
 
-### Chef (Nov 2021 - Current) 
+### Goolgle coloud consultant (September 2022 - Current)
+Go Reply
+
+### Chef (Nov 2021 - August 2022) 
 Ask Italian
 - Create and present quality food in accordance with company specs.
 
-### Student Ambassador (October 2021 - current)
+### Student Ambassador (October 2021 - July 2022)
 University of Essex
 - Part of the Communications and External Relations Team.
 - Predominately undertaking duties for the Outreach and Marketing and Student Recruitment teams.
@@ -181,7 +188,7 @@ University of Essex
 ---
 ## Volunteering experience
 
-### Communications Officer (January 2021  – Current)
+### Communications Officer (January 2021  – July 2022)
 University of Essex - VTeam (Animal protection project)
 - Emailing new volunteers, welcoming them to the project.
 - Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now), etc.
