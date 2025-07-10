@@ -1,0 +1,169 @@
+/* General Body Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.App {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+/* CV Content Area */
+#cv-content {
+  padding: 20px;
+}
+
+/* Header Styles */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #007bff; /* Blue accent */
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.8em;
+  color: #007bff; /* Blue accent */
+  font-weight: bold;
+}
+
+header p {
+  font-size: 0.95em;
+  color: #555;
+  margin-top: 5px;
+}
+
+header a {
+  color: #0056b3; /* Darker blue for links */
+  text-decoration: none;
+  margin: 0 5px;
+}
+
+header a:hover {
+  text-decoration: underline;
+}
+
+/* Section Styles */
+section {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
+}
+
+section:last-of-type {
+  border-bottom: none;
+}
+
+section h2 {
+  font-size: 1.8em;
+  color: #333;
+  margin-bottom: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #007bff; /* Blue accent for section titles */
+  display: inline-block; /* Allows border to fit content */
+}
+
+/* Subsection/Item Styles */
+section h3 {
+  font-size: 1.3em;
+  color: #0056b3; /* Darker blue for subheadings */
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+section h4 {
+  font-size: 1.1em;
+  color: #444;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+section p, section li {
+  font-size: 1em;
+  color: #444;
+  margin-bottom: 8px;
+}
+
+section ul {
+  list-style-type: disc;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+section ul li {
+  margin-bottom: 5px;
+}
+
+/* Project and Experience Specifics */
+section div div { /* Targeting individual project/experience blocks */
+  margin-bottom: 20px;
+}
+
+section div div p:first-of-type { /* Company/Organization name */
+  font-style: italic;
+  color: #666;
+}
+
+/* Links within sections */
+section a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+section a:hover {
+  text-decoration: underline;
+}
+
+/* Button Style */
+button {
+  display: block;
+  margin: 20px auto; /* Center the button */
+  padding: 12px 25px;
+  font-size: 1.1em;
+  color: #fff;
+  background-color: #007bff; /* Blue accent */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Responsive Design (Optional - Basic Example) */
+@media (max-width: 768px) {
+  .App {
+    margin: 20px;
+    padding: 15px;
+  }
+
+  header h1 {
+    font-size: 2.2em;
+  }
+
+  section h2 {
+    font-size: 1.6em;
+  }
+
+  section h3 {
+    font-size: 1.2em;
+  }
+}
+
+/* Styling for PDF output clarity if needed, though html2canvas aims to capture as-is */
+#cv-content.pdf-render {
+  /* Add any specific styles for PDF rendering here if issues arise */
+  /* e.g., box-shadow: none; to remove shadows in PDF */
+}
