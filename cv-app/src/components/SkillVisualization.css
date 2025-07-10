@@ -1,0 +1,46 @@
+.skill-visualization {
+  margin-top: 20px;
+}
+
+.skill-visualization h4 {
+  margin-bottom: 10px;
+  color: #333;
+  font-size: 1.2em;
+}
+
+.skill-bar-container {
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+}
+
+.skill-name {
+  width: 200px; /* Adjust as needed */
+  margin-right: 10px;
+  font-size: 0.95em;
+  color: #444;
+  text-align: right;
+}
+
+.skill-bar-bg {
+  flex-grow: 1;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  height: 20px;
+  overflow: hidden; /* Ensures the fill stays within bounds */
+}
+
+.skill-bar-fill {
+  background-color: #007bff;
+  height: 100%;
+  color: white;
+  text-align: center;
+  line-height: 20px; /* Vertically center text */
+  font-size: 0.8em;
+  border-radius: 4px 0 0 4px; /* Match parent radius, but only on left if not 100% */
+  transition: width 0.5s ease-in-out;
+}
+
+.skill-bar-fill[style*="width: 100%"] {
+  border-radius: 4px; /* Full radius if 100% */
+}

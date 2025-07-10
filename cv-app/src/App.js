@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import './App.css';
 import Header from './components/Header';
+import DarkModeToggle from './components/DarkModeToggle'; // Import DarkModeToggle
 import PersonalProfile from './components/PersonalProfile';
 import Education from './components/Education';
 import Projects from './components/Projects';
@@ -14,6 +15,22 @@ import jsPDF from 'jspdf';
 import html2canvas from 'html2canvas';
 
 function App() {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    if (isDarkMode) {
+      document.body.classList.add('dark');
+      document.documentElement.classList.add('dark'); // If you need to target html element
+    } else {
+      document.body.classList.remove('dark');
+      document.documentElement.classList.remove('dark');
+    }
+  }, [isDarkMode]);
+
+  const toggleTheme = () => {
+    setIsDarkMode(!isDarkMode);
+  };
+
   // CV Data - This will be populated from your README.md
   const cvData = {
     personalInfo: {
@@ -51,36 +68,46 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       }
     ],
     projects: [
-      { name: "Capstone Project - Dissertaion", link: "https://github.com/Sanskar-16/capstone" },
-      { name: "Natural Language Engineering", link: "https://github.com/Sanskar-16/NLE-assignment" },
-      { name: "Twitter data/sentiment analysis", link: "https://github.com/Sanskar-16/twitter" },
-      { name: "Sotify data analysis", link: "https://github.com/Sanskar-16/spotify" },
-      { name: "F1 data analysis", link: "https://github.com/Sanskar-16/f1" },
+      { name: "Capstone Project - Dissertaion", link: "https://github.com/Sanskar-16/capstone", details: "Detailed description of Capstone project...", images: ["path/to/image1.jpg"], techStack: ["Python", "Graph Theory"] },
+      { name: "Natural Language Engineering", link: "https://github.com/Sanskar-16/NLE-assignment", details: "Detailed description of NLE project...", techStack: ["Python", "NLTK"] },
+      { name: "Twitter data/sentiment analysis", link: "https://github.com/Sanskar-16/twitter", details: "Detailed description of Twitter analysis...", techStack: ["Python", "Tweepy", "Pandas"] },
+      { name: "Sotify data analysis", link: "https://github.com/Sanskar-16/spotify", details: "Detailed description of Spotify analysis...", techStack: ["Python", "Spotipy", "Pandas"] },
+      { name: "F1 data analysis", link: "https://github.com/Sanskar-16/f1", details: "Detailed description of F1 analysis...", techStack: ["Python", "Pandas", "Matplotlib"] },
       {
         name: "A COVID-19 modelling and forecast tool",
         link: "https://github.com/Sanskar-16/covid-project",
         description: "This project was a part of the module CE291 Team project challenge in my second year. The requirements were to create a modelling and forecasting tool using data available online. We used Piecewise linear regression algorithm to predict the graph. We have also included a colour-coded map, which shows the number of cases in a region based on colours. Another feature that our product entails is the country comparison tab which as the name suggests compares two countries and shows various metrics for their data.",
-        languages: "Java, HTML, Python."
+        languages: "Java, HTML, Python.",
+        details: "More detailed insights into the COVID-19 project, challenges, and outcomes.",
+        images: ["Resources/CovidPredictionProject.png", "Resources/WorkingModel.png"],
+        techStack: ["Java", "HTML", "Python", "Piecewise Linear Regression"]
       },
       {
         name: "House Prices - Advanced Regression Techniques",
         link: "https://github.com/Sanskar-16/house-price-new",
         description: "This project was based on a prediction of the housing prices using feature engineering, RFs and gradient boosting. The attributes which define the price in a certain way were given, One had to get the right attributes together and remove the ones which alter the price in an undesirable way to predict the prices in the most accurate manner. I did this project with a team of six other members, We all achieved a score of 0.16164 (RMSE) as the best score. RMSE also knows as Root mean square error is the deviation of the residuals, Residuals are a measure of how far from the regression line data points are. We initially based our predictions on random forest which is a simple yet diverse machine learning algorithm. Moving forward we realised XGBoost produced better results for us. XGBoost is an implementation of gradient boosted decision trees designed for speed and performance.",
         languages: "python (pandas, seaborn, matplotlib, NumPy, scipy, sklearn)",
-        algorithms: "random forest, XGBoost."
+        algorithms: "random forest, XGBoost.",
+        details: "Further details on feature engineering and model tuning for the house prices project.",
+        images: ["Resources/KaggleHousingProject.png", "Resources/KaggleHousingProjectRank.png"],
+        techStack: ["Python", "Pandas", "XGBoost", "Scikit-learn"]
       },
       {
         name: "Titanic - ML from disaster",
         link: "https://github.com/Sanskar-16/titanic",
         description: "I started this project to gain basic insights into ML and how kaggle works. I achieved a score of 0.775 compared to the best score of 1. The competition uses machine learning to create a model that predicts which passengers survived the Titanic shipwreck. I do plan on improving my score once I learn more algorithms and have a better understanding of the dataset.",
-        languages: "Python (pandas, NumPy)"
+        languages: "Python (pandas, NumPy)",
+        details: "My journey with the Titanic dataset and initial model building steps.",
+        images: ["Resources/Titanic2.png", "Resources/Titanic1.png"],
+        techStack: ["Python", "Pandas", "Scikit-learn"]
       }
     ],
     workExperience: [
-      { role: "Google cloud consultant", company: "Go Reply", dates: "September 2022 - Current", responsibilities: [] },
-      { role: "Chef", company: "Ask Italian", dates: "Nov 2021 - August 2022", responsibilities: ["Create and present quality food in accordance with company specs."] },
+      { role: "Google cloud consultant", company: "Go Reply", dates: "September 2022 - Current", responsibilities: [], details: "More about my role as a Google Cloud Consultant..." },
+      { role: "Chef", company: "Ask Italian", dates: "Nov 2021 - August 2022", responsibilities: ["Create and present quality food in accordance with company specs."], details: "My experience in a fast-paced kitchen environment..." },
       {
         role: "Student Ambassador", company: "University of Essex", dates: "October 2021 - July 2022",
+        details: "Highlights of my time as a Student Ambassador...",
         responsibilities: [
           "Part of the Communications and External Relations Team.",
           "Predominately undertaking duties for the Outreach and Marketing and Student Recruitment teams.",
@@ -93,6 +120,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Resident’s Assistant", company: "University of Essex", dates: "October 2020 – June 2021",
+        details: "Key experiences as a Resident's Assistant...",
         responsibilities: [
           "Creating a sense of community through social opportunities and befriending.",
           "Using admin and organisational skills for facilitating flat agreements",
@@ -104,6 +132,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Support Worker", company: "Lifeways – Living Ambitions", dates: "February 2020 – October 2020",
+        details: "Learning and growth as a Support Worker...",
         responsibilities: [
           "Working as a support worker by helping the service users carry out their day-to-day tasks.",
           "Being punctual to relieve colleagues from previous shifts.",
@@ -114,6 +143,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Accommodation representative", company: "University of Essex", dates: "October 2019 – July 2020",
+        details: "My responsibilities as an Accommodation Rep...",
         responsibilities: [
           "Maintain my own room to show it as a model room for visiting parents and new students.",
           "Fill in timesheets in a particular time frame to get paid for the shifts held."
@@ -121,6 +151,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Team Member", company: "Theobroma - Food of the Gods", dates: "May 2019 - August 2019",
+        details: "Customer service and teamwork at Theobroma...",
         responsibilities: [
           "Worked as a Team Member to provide quality service.",
           "Coordinated with the team to deliver in the best interest of the customer.",
@@ -133,6 +164,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
     positionsOfResponsibility: [
       {
         role: "Vice-President – Cycling club", organization: "University of Essex", dates: "October 2020 – July 2021",
+        details: "Leading the cycling club...",
         responsibilities: [
           "Manage the internal working of the club such as and assist the president where necessary.",
           "Act as a secondary point of contact for external bodies."
@@ -140,6 +172,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Essex Student representative", organization: "University of Essex", dates: "December 2019 – July 2020",
+        details: "Representing students in the Math Sciences department...",
         responsibilities: [
           "Student representative for mathematical Sciences department’s modules.",
           "Gather feedback from students via email, WhatsApp for different modules.",
@@ -150,6 +183,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
     volunteeringExperience: [
       {
         role: "Communications Officer", organization: "University of Essex - VTeam (Animal protection project)", dates: "January 2021 – July 2022",
+        details: "My role in the VTeam Animal Protection Project...",
         responsibilities: [
           "Emailing new volunteers, welcoming them to the project.",
           "Sending weekly emails to volunteers that are “Ready to Volunteer”, telling them session times, location (Zoom meeting ID for now), etc.",
@@ -163,6 +197,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Session Leader", organization: "University of Essex - VTeam (Animal protection project)", dates: "October 2019 – January 2021",
+        details: "Leading sessions for animal protection...",
         responsibilities: [
           "Working as a session leader for the animal protection project on alternate weekends.",
           "Take attendance on volunteers’ arrival and make sure everyone reaches safely.",
@@ -171,6 +206,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Volunteer", organization: "University of Essex – Nightline", dates: "October 2019 - Jul 2020",
+        details: "Providing support through Nightline...",
         responsibilities: [
           "Confidential listening and support services run by the students for the students at the university.",
           "Basic first aid/bystander trained."
@@ -178,6 +214,7 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
       },
       {
         role: "Volunteer", organization: "The Akanksha Foundation", dates: "April 2017 - June 2017",
+        details: "HR volunteering at Akanksha Foundation...",
         responsibilities: [
           "Worked as a Volunteer to align the HR activities in MS Excel during appraisals.",
           "Helped the team with Employee data and MIS.",
@@ -187,16 +224,34 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
     ],
     skills: {
       technical: [
-        "Git (version control), Jira (Project management)",
-        "Programming languages -> Python, MySQL, R, Java, HTML, C++.",
-        "Software Experince - MATLAB, RStudio, Jetbrains softwares, Power BI, Tableau.",
-        "Data Science Platform experience - Kaggle, Github,",
-        "Conversant with Windows, Mac, MS office & Internet-based applications."
+        { name: "Git (version control)", level: "Advanced" },
+        { name: "Jira (Project management)", level: "Intermediate" },
+        { name: "Python", level: "Advanced" },
+        { name: "MySQL", level: "Intermediate" },
+        { name: "R", level: "Intermediate" },
+        { name: "Java", level: "Beginner" },
+        { name: "HTML", level: "Intermediate" },
+        { name: "C++", level: "Beginner" },
+        { name: "MATLAB", level: "Intermediate" },
+        { name: "RStudio", level: "Intermediate" },
+        { name: "Jetbrains IDEs", level: "Advanced" },
+        { name: "Power BI", level: "Intermediate" },
+        { name: "Tableau", level: "Intermediate" },
+        { name: "Kaggle", level: "Intermediate" },
+        { name: "Github", level: "Advanced" },
+        { name: "Windows", level: "Advanced" },
+        { name: "Mac OS", level: "Advanced" },
+        { name: "MS Office", level: "Advanced" },
+        { name: "Internet Applications", level: "Advanced" }
       ],
-      languages: ["English (Fluent)", "Hindi (Fluent)", "Spanish (Beginner)"]
+      languages: [
+        { name: "English", level: "Fluent" },
+        { name: "Hindi", level: "Fluent" },
+        { name: "Spanish", level: "Beginner" }
+      ]
     },
     interests: [
-      "Neural Networks, Computer Vision, Art using ML/AI, Deep Learning, Cloud computing.",
+      "Neural Networks, Computer Vision, Art using ML/AI, Deep Learning, Cloud computing.", // Can be an array of objects if more detail is needed later
       "Participating in sports and fitness – helps me keep active and a good physique. I'm passionate about football.",
       "Listening and working with Music and beats – keeps me relaxed. I play intruments too (keyboard and drums).",
       "Cycle touring – explore nearby areas, go for long rides.",
@@ -238,7 +293,8 @@ In my spare time, I work on #66DaysofData alongside my role and I post about it 
   };
 
   return (
-    <div className="App">
+    <div className={`App ${isDarkMode ? 'dark' : ''}`}>
+      <DarkModeToggle toggleTheme={toggleTheme} isDarkMode={isDarkMode} />
       <button onClick={downloadPDF} style={{ margin: '20px', padding: '10px' }}>Download CV as PDF</button>
       <div id="cv-content">
         <Header personalInfo={cvData.personalInfo} />

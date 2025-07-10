@@ -1,0 +1,28 @@
+.dark-mode-toggle {
+  position: fixed; /* Or absolute, depending on where you want it */
+  top: 20px;
+  right: 20px;
+  padding: 8px 15px;
+  font-size: 0.9em;
+  color: #fff;
+  background-color: #555; /* Default darkish button */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.dark-mode-toggle:hover {
+  background-color: #777;
+}
+
+/* Specific styles if needed when dark mode is active for the button itself */
+.App.dark .dark-mode-toggle {
+  background-color: #bbb; /* Lighter button in dark mode */
+  color: #333;
+}
+
+.App.dark .dark-mode-toggle:hover {
+  background-color: #ddd;
+}

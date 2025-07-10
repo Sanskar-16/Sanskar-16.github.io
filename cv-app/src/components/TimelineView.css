@@ -1,0 +1,8 @@
+.timeline-view {
+  position: relative;
+  margin-top: 20px;
+}
+
+/* No specific styles needed for TimelineView itself,
+   most styling is handled by TimelineItem and its CSS.
+   This file is here for completeness or if global timeline styles are needed later. */

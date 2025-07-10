@@ -1,21 +1,10 @@
 import React from 'react';
+import TimelineView from './TimelineView'; // Import the new component
 
 const WorkExperience = ({ experience }) => (
-  <section>
-    <h2>Work experience</h2>
-    {experience.map((job, index) => (
-      <div key={index}>
-        <h3>{job.role} ({job.dates})</h3>
-        <p>{job.company}</p>
-        {job.responsibilities && (
-          <ul>
-            {job.responsibilities.map((task, i) => (
-              <li key={i}>{task}</li>
-            ))}
-          </ul>
-        )}
-      </div>
-    ))}
+  <section id="work-experience">
+    <h2>Work Experience</h2>
+    <TimelineView items={experience} type="experience" />
   </section>
 );
 

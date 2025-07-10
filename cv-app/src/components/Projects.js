@@ -1,15 +1,11 @@
 import React from 'react';
+import InteractiveProject from './InteractiveProject'; // Import the new component
 
 const Projects = ({ projects }) => (
-  <section>
+  <section id="projects">
     <h2>Projects worked on</h2>
     {projects.map((project, index) => (
-      <div key={index}>
-        <h3>{index + 1}. <a href={project.link}>{project.name}</a></h3>
-        {project.description && <p>{project.description}</p>}
-        {project.languages && <p>Languages used - {project.languages}</p>}
-        {project.algorithms && <p>Algorithms used - {project.algorithms}</p>}
-      </div>
+      <InteractiveProject key={index} project={project} />
     ))}
   </section>
 );

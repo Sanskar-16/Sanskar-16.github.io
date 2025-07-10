@@ -4,17 +4,29 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
-  color: #333;
+  background-color: #f4f4f4; /* Light mode background */
+  color: #333; /* Light mode text */
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body.dark {
+  background-color: #121212; /* Dark mode background */
+  color: #e0e0e0; /* Dark mode text */
 }
 
 .App {
   max-width: 900px;
   margin: 30px auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: #fff; /* Light mode app background */
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   border-radius: 8px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.App.dark {
+  background-color: #1e1e1e; /* Dark mode app background */
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.05);
 }
 
 /* CV Content Area */
@@ -27,7 +39,11 @@ header {
   text-align: center;
   margin-bottom: 30px;
   padding-bottom: 20px;
-  border-bottom: 2px solid #007bff; /* Blue accent */
+  border-bottom: 2px solid #007bff; /* Blue accent - consistent in both modes for now */
+}
+
+.App.dark header {
+  border-bottom-color: #009bff; /* Slightly brighter blue for dark mode if desired */
 }
 
 header h1 {
@@ -37,16 +53,28 @@ header h1 {
   font-weight: bold;
 }
 
+.App.dark header h1 {
+  color: #009bff;
+}
+
 header p {
   font-size: 0.95em;
-  color: #555;
+  color: #555; /* Light mode text */
   margin-top: 5px;
+}
+
+.App.dark header p {
+  color: #bbb; /* Dark mode text */
 }
 
 header a {
   color: #0056b3; /* Darker blue for links */
   text-decoration: none;
   margin: 0 5px;
+}
+
+.App.dark header a {
+  color: #66ccff; /* Lighter blue for links in dark mode */
 }
 
 header a:hover {
@@ -57,7 +85,10 @@ header a:hover {
 section {
   margin-bottom: 25px;
   padding-bottom: 15px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #eee; /* Light mode border */
+}
+.App.dark section {
+  border-bottom: 1px solid #333; /* Dark mode border */
 }
 
 section:last-of-type {
@@ -66,32 +97,47 @@ section:last-of-type {
 
 section h2 {
   font-size: 1.8em;
-  color: #333;
+  color: #333; /* Light mode section title */
   margin-bottom: 15px;
   padding-bottom: 5px;
   border-bottom: 1px solid #007bff; /* Blue accent for section titles */
   display: inline-block; /* Allows border to fit content */
 }
+.App.dark section h2 {
+  color: #e0e0e0; /* Dark mode section title */
+  border-bottom-color: #009bff;
+}
 
 /* Subsection/Item Styles */
 section h3 {
   font-size: 1.3em;
-  color: #0056b3; /* Darker blue for subheadings */
+  color: #0056b3; /* Light mode subheading */
   margin-bottom: 8px;
   font-weight: bold;
 }
+.App.dark section h3 {
+  color: #66ccff; /* Dark mode subheading */
+}
+
 
 section h4 {
   font-size: 1.1em;
-  color: #444;
+  color: #444; /* Light mode text */
   margin-top: 10px;
   margin-bottom: 5px;
 }
+.App.dark section h4 {
+  color: #ccc; /* Dark mode text */
+}
+
 
 section p, section li {
   font-size: 1em;
-  color: #444;
+  color: #444; /* Light mode text */
   margin-bottom: 8px;
+}
+.App.dark section p, .App.dark section li {
+  color: #bbb; /* Dark mode text */
 }
 
 section ul {
@@ -99,32 +145,34 @@ section ul {
   margin-left: 20px;
   padding-left: 0;
 }
+/* No specific dark mode for ul/li markers, default usually adapts or is fine */
 
 section ul li {
   margin-bottom: 5px;
 }
 
 /* Project and Experience Specifics */
-section div div { /* Targeting individual project/experience blocks */
-  margin-bottom: 20px;
+/* Targeting individual project/experience blocks - already handled by general section p, h3, h4 etc. */
+
+.App.dark section div div p:first-of-type { /* Company/Organization name */
+  color: #aaa; /* Dark mode adjustment */
 }
 
-section div div p:first-of-type { /* Company/Organization name */
-  font-style: italic;
-  color: #666;
-}
 
 /* Links within sections */
 section a {
   color: #007bff;
   text-decoration: none;
 }
+.App.dark section a {
+  color: #66ccff;
+}
 
 section a:hover {
   text-decoration: underline;
 }
 
-/* Button Style */
+/* Download Button Style - Assuming it should remain prominent */
 button {
   display: block;
   margin: 20px auto; /* Center the button */
@@ -141,8 +189,10 @@ button {
 button:hover {
   background-color: #0056b3; /* Darker blue on hover */
 }
+/* No specific dark mode for the main download button, it can stay blue */
 
-/* Responsive Design (Optional - Basic Example) */
+
+/* Responsive Design */
 @media (max-width: 768px) {
   .App {
     margin: 20px;
